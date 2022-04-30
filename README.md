@@ -1,6 +1,6 @@
 # FPGA Digital Oscilloscope
 
-This was my term project for the Digital Cirtuit Design course back in 2016. The design was implemented using VHDL and demonstrated on a Basys3 Xilinx Artix-7 demo board. It should be noted that this just an elementary design and there are several shortcomings. 
+This was my term project for the Digital Cirtuit Design course back in 2016. The design was implemented using VHDL and demonstrated on a Basys3 Xilinx Artix-7 demo board. It should be noted that this is just an elementary design and there are several shortcomings. 
 
 Demonstration video: https://www.youtube.com/watch?v=RsM2iyXqQUE
 
